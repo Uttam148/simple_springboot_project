@@ -1,0 +1,4 @@
+com\example\grades\model\Subject.class
+com\example\grades\GradesApplication.class
+com\example\grades\model\Student.class
+com\example\grades\controller\StudentController.class
